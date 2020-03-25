@@ -1,7 +1,7 @@
 # apli
 
 1. Added Onboarding
-2. Added Update Feature For Editing Profile( Using FireBase Firestore)
+2. Added (Update Only) Feature For Editing Profile( Using FireBase Firestore)(No Fetching Yet)
 3. Added Splash
 4. Added Login , SignUp
 
