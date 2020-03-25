@@ -1,6 +1,9 @@
 # apli
 
-A new Flutter project.
+1. Added Onboarding
+2. Added Update Feature For Editing Profile( Using FireBase Firestore)
+3. Added Splash
+4. Added Login , SignUp
 
 ## Getting Started
 
